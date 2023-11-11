@@ -1,6 +1,16 @@
 # College-ERP
 A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
 
+
+## Download or Clone (REPO)
+- type the below command in the terminal
+```
+
+```
+move to the directory, using the below command
+```
+```
+
 ## Installation
 
 Python and Django need to be installed
