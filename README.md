@@ -5,10 +5,11 @@ A college management system built using Django framework. It is designed for int
 ## Download or Clone (REPO)
 - type the below command in the terminal
 ```
-
+git clone https://github.com/praTeek271/ERP_MANAGEMENT_via_django.git
 ```
 move to the directory, using the below command
 ```
+cd ERP_MANAGEMENT_via_django
 ```
 
 ## Installation
