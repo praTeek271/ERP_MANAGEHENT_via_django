@@ -15,8 +15,8 @@ This Repo consists of the following files :
 - --->This is a test repository created by @prateek271
 <br><br>
 ---
-<br><br>### Features of the project:
+<br><br>###	Features of the project:
 <br>
 
 
-- uses os module
+- welcome to this repo
