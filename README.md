@@ -1,4 +1,4 @@
-# ERP_MANAGEMENT_via_django
+# erp_management_via_django
 This Repo consists of the following files :
 - .git
 - .gitignore
@@ -21,4 +21,4 @@ This Repo consists of the following files :
 <br>
 
 
-- can be used for any repo
+- uses time module
